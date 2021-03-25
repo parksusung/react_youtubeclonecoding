@@ -1,6 +1,5 @@
  https://605c408b390ce16e9e3c0148--suseong-youtube-clonecoding.netlify.app
- 배포링크
- 
+ 배포했습니다 직접해보세요 
 
 
 # Getting Started with Create React App
